@@ -17,9 +17,9 @@ This repository provides a basic understanding of Servlets, a fundamental techno
 2. Follow the installation instructions for your operating system.
 3. Configure Tomcat to work with your IDE (e.g., Eclipse).
 
-### Creating a Dynamic Web Project in Eclipse
+### Creating a Dynamic Web Project in IDE
 
-1. Open Eclipse and navigate to `File > New > Dynamic Web Project`.
+1. Open your IDE and navigate to `File > New > Dynamic Web Project`.
 2. Follow the wizard to set up your project.
 
 ## What are Servlets?

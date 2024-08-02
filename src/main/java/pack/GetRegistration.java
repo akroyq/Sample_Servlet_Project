@@ -67,7 +67,7 @@ public class GetRegistration extends HttpServlet {
 				out.print(result.getString(2));
 				out.print("</td>");
 				out.print("<td>");
-				out.print(result.getString(1));
+				out.print(result.getString(3));
 				out.print("</td>");
 				out.print("</tr>");
 			}
